@@ -72,7 +72,7 @@ a.more:hover{
 }
 
 .slider{
-    background:url(../Trial/img/photo-of-orange-yellow-and-red-hello-molding-clay-954599.jpg)center center;
+    background:url(/img/photo-of-orange-yellow-and-red-hello-molding-clay-954599.jpg)center center;
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -82,7 +82,7 @@ a.more:hover{
 }
  
 .slider1{
-    background:url(../Trial/img/grayscale-photography-of-penguin-2078475.jpg) center center;
+    background:url(/img/grayscale-photography-of-penguin-2078475.jpg) center center;
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -90,7 +90,7 @@ a.more:hover{
 }
 
 .block-1{
-    background: url(../Trial/img/pink-corded-headphones-on-pink-and-teal-wall-1037996.jpg) center fixed;
+    background: url(/img/pink-corded-headphones-on-pink-and-teal-wall-1037996.jpg) center fixed;
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
